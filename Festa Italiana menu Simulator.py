@@ -9,7 +9,7 @@ Created on Thu Jul  8 11:25:18 2021
 menu = {0:[1,2], 1:[3,4], 2:[5,6], 3:[7,8],4:[9,10],5:[11],6:[12,13]}
 
 names = ["Welcome to Festa Italiana!", "Pizza",
-         "Pasta","Veg","Non-Veg","Veg","Non-Veg"
+         "Pasta","Veg","Non-Veg","Veg","Non-Veg",
          "Peppy Paneer","Cheese Corn","Barbeque","Supreme","Latin white sauce",
          "Bolonese Chicken", "Lasagna"]
 
